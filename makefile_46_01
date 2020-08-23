@@ -1,0 +1,2 @@
+all:
+		gcc -x c -O3 main_46_01.c sim_46_01.c task_46_01.h evc_46_01.c  -o evc -lm
